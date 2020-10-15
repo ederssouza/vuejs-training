@@ -166,7 +166,7 @@ button {
 </style>
 ```
 
-[Clique aqui para ver o exemplo](ederssouza.github.io/vuejs-training/#//exemplos/componente-basico)
+[Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/componente-basico)
 
 ### Ciclo de vida de um componente
 
@@ -174,7 +174,7 @@ Abaixo está um diagrama para o ciclo de vida da instância. Você não precisa 
 
 ![Ciclo de vida de um componente](https://br.vuejs.org/images/lifecycle.png)
 
-[Clique aqui para ver o exemplo](ederssouza.github.io/vuejs-training/#//exemplos/componente-ciclo-de-vida)
+[Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/componente-ciclo-de-vida)
 
 ### Principais diretivas
 
@@ -189,13 +189,13 @@ Abaixo está um diagrama para o ciclo de vida da instância. Você não precisa 
 - **`v-bind`** ou **`:`**: Dinamicamente faz a interligação de um ou mais atributos ou propriedades de um componente a uma expressão;
 - **`v-model`**: Cria uma interligação de mão dupla (two-way binding) em um elemento de entrada (input) de formulário ou componente.
 
-[Clique aqui para ver o exemplo](ederssouza.github.io/vuejs-training/#/)
+[Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/)
 
 ### Criando métodos
 
 Os métodos criados podem acessar diretamente a instância VM ou podem ser utilizados em expressões ou diretivas. Também terão seu contexto `this` atribuído a instância Vue.
 
-[Clique aqui para ver o exemplo](ederssouza.github.io/vuejs-training/#//exemplos/metodos)
+[Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/metodos)
 
 ### Passando props para um componente
 
@@ -209,13 +209,13 @@ Especifica um valor padrão para o prop. Se o prop não é passado, este valor s
 - **`required`**: `Boolean`
 Define se o prop é necessário. Em ambiente de não-produção, um aviso de console será lançado se esse valor for verdadeiro e o prop não for passado.
 
-[Clique aqui para ver o exemplo](ederssouza.github.io/vuejs-training/#//exemplos/props)
+[Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/props)
 
 ### Emitindo eventos
 
 `vm.$emit( eventName, [...args] )` lança um evento na instância atual. Qualquer argumento adicional será passado para a função de callback da escuta. Esse evento poderá ser capturado pelo elemento pai.
 
-[Clique aqui para ver o exemplo](ederssouza.github.io/vuejs-training/#//exemplos/evento-emit)
+[Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/evento-emit)
 
 ## Filtros
 
@@ -240,7 +240,7 @@ export default {
 </script>
 ```
 
-[Clique aqui para ver o exemplo](ederssouza.github.io/vuejs-training/#//exemplos/filtros)
+[Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/filtros)
 
 ## Referências
 
