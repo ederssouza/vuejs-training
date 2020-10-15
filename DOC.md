@@ -252,11 +252,11 @@ export default {
 
 ## Referências
 
-[O que é Vue.js?](https://br.vuejs.org/v2/guide/#O-que-e-Vue-js)
-[Primeiros Passos / instalação](https://br.vuejs.org/v2/guide/#Primeiros-Passos)
-[Diagrama do Ciclo de Vida](https://br.vuejs.org/v2/guide/instance.html#Diagrama-do-Ciclo-de-Vida)
-[Diretivas](https://br.vuejs.org/v2/api/index.html#Diretivas)
-[Props](https://br.vuejs.org/v2/api/index.html#props)
-[Métodos da Instância / Eventos](https://br.vuejs.org/v2/api/index.html#Metodos-da-Instancia-Eventos)
-[Filtros](https://br.vuejs.org/v2/guide/filters.html)
-[Roteamento](https://router.vuejs.org)
+- [O que é Vue.js?](https://br.vuejs.org/v2/guide/#O-que-e-Vue-js)
+- [Primeiros Passos / instalação](https://br.vuejs.org/v2/guide/#Primeiros-Passos)
+- [Diagrama do Ciclo de Vida](https://br.vuejs.org/v2/guide/instance.html#Diagrama-do-Ciclo-de-Vida)
+- [Diretivas](https://br.vuejs.org/v2/api/index.html#Diretivas)
+- [Props](https://br.vuejs.org/v2/api/index.html#props)
+- [Métodos da Instância / Eventos](https://br.vuejs.org/v2/api/index.html#Metodos-da-Instancia-Eventos)
+- [Filtros](https://br.vuejs.org/v2/guide/filters.html)
+- [Roteamento](https://router.vuejs.org)
