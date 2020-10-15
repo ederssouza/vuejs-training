@@ -1,7 +1,6 @@
 {
   "name": "vuejs-training",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "serve:force": "rm -rf node_modules package-lock.json && npm i && vue-cli-service -- serve",
