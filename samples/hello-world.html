@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My first Vue app</title>
+</head>
+
+<body>
+  <div id="app">
+    {{ message }}
+  </div>
+
+  <!-- versão de produção, otimizada para tamanho e velocidade -->
+  <script src="https://unpkg.com/vue"></script>
+  <script>
+    var app = new Vue({
+      el: '#app',
+      data: {
+        message: 'Hello World!'
+      }
+    })
+  </script>
+</body>
+</html>
