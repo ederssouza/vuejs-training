@@ -76,7 +76,7 @@
     </div>
 
     <div v-if="slug === 'evento-emit'">
-      <h1>Emitindo eventos <code>vm.$emit(eventName, [...args])</code></h1>
+      <h1>Emitindo eventos <code class="small">vm.$emit(eventName, [...args])</code></h1>
       <Alert />
     </div>
 
