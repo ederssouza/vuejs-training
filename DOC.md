@@ -89,7 +89,7 @@ $ vue create NOME_DO_PROJETO
 $ cd NOME_DO_PROJETO
 
 # rodar o projeto
-$ npm run serve
+$ yarn serve
 ```
 
 ### Estrutura básica do projeto
