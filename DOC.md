@@ -3,7 +3,7 @@
 ## Pré-requisitos
 
 - Conhecimento básico em HTML, CSS e JavasScript;
-- [Node.js](https://nodejs.org/en/download/) ou [Yarn](https://yarnpkg.com/) para instalação e gerenciamento de dependências.
+- [Node.js](https://nodejs.org/en/download) ou [Yarn](https://yarnpkg.com/getting-started/install) para instalação e gerenciamento de dependências.
 
 ## O que é o Vue.js?
 
