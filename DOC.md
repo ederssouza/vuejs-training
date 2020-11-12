@@ -242,6 +242,12 @@ export default {
 
 [Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/filtros)
 
+## Plugins para Visual Studio Code
+
+- [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
+- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR)
+
 ## Referências
 
 - [O que é Vue.js?](https://br.vuejs.org/v2/guide/#O-que-e-Vue-js)
