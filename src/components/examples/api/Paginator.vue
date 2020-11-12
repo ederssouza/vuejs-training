@@ -52,12 +52,18 @@ export default {
   height: 30px;
   justify-content: center;
   text-decoration: none;
+  transition: background .26s;
   width: 30px;
+}
+
+.paginator li a:hover {
+  background: #3fba84;
+  color: #fff;
 }
 
 .paginator > li.paginator__item--active > a {
   background: #3fba84;
   color: #fff;
-  cursor: pointer;
+  cursor: default;
 }
 </style>
