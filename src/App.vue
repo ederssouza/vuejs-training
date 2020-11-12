@@ -20,16 +20,16 @@ export default {
 #app {
   background-color: #fff;
   padding: 100px 0 50px;
+}
 
-  .h1, .h2, .h3, .h4, .h5, .h6,
-  h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 1.5rem;
-  }
+.h1, .h2, .h3, .h4, .h5, .h6,
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1.5rem;
+}
 
-  a:not(.navbar-brand),
-  a:not(.navbar-brand):hover {
-    color: #3fba84 !important;
-  }
+a:not(.navbar-brand),
+a:not(.navbar-brand):hover {
+  color: #3fba84;
 }
 
 body {
