@@ -172,7 +172,7 @@ button {
 
 Abaixo está um diagrama para o ciclo de vida da instância. Você não precisa entender completamente tudo o que está acontecendo neste momento, mas conforme você aprender e construir mais coisas, este diagrama será uma referência útil.
 
-<img src="https://br.vuejs.org/images/lifecycle.png" style="margin: 0 auto; display: block; width: 65%;">
+![Ciclo de vida de um componente](https://br.vuejs.org/images/lifecycle.png)
 
 [Clique aqui para ver o exemplo](https://ederssouza.github.io/vuejs-training/#/exemplos/componente-ciclo-de-vida)
 
