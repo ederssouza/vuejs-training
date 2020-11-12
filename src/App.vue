@@ -16,7 +16,9 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style>
+@import './assets/css/bootstrap.min.css';
+
 #app {
   background-color: #fff;
   padding: 100px 0 50px;
@@ -54,5 +56,9 @@ body {
 
 .bg-success {
   background-color: #3fba84 !important;
+}
+
+.small {
+  font-size: 60%;
 }
 </style>
